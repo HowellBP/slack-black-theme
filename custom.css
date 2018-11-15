@@ -538,7 +538,7 @@ ts-message a.timestamp{
   color: #aaa !important;
 }
 #channels_scroller.show_which_channel_is_active ul li.active .im_name{
-  color: #fff !important;
+  color: #888 !important;
 }
 
 #msgs_div .unread_divider.no_unreads .divider_label
